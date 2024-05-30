@@ -3,6 +3,7 @@ import '@mantine/core/styles.css';
 import { MantineProvider } from '@mantine/core';
 import Header from "./components/Header";
 import Banner from "./components/Banner";
+import Characters from "./components/Characters";
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
         <GlobalStyles />
         <Header />
         <Banner />
+        <Characters />
       </MantineProvider>
     </>
   )
