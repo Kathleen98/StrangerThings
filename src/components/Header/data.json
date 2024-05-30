@@ -1,0 +1,26 @@
+[
+    {
+        "id": 0,
+        "nav": "home"
+    },
+
+    {
+        "id": 1,
+        "nav": "Personagens"
+    },
+
+    {
+        "id": 1,
+        "nav": "História"
+    },
+
+    {
+        "id": 1,
+        "nav": "Temporadas"
+    },
+
+    {
+        "id": 1,
+        "nav": "Atores"
+    }
+]
