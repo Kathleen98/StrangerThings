@@ -18,12 +18,12 @@ const CardsContainer = styled.div`
   align-items: center;
   justify-content: center;
   padding-top: 1em;
-`
+`;
 
 const Characters = () => {
   return (
     <CharactersContainer>
-      <Title Children={'Personagens'} />
+      <Title Children={"Personagens"} />
       <CardsContainer>
         <CarouselContainer />
       </CardsContainer>

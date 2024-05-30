@@ -10,14 +10,14 @@ const HeaderContainer = styled.header`
   flex-direction: column;
   width: 100vw;
   height: 10vh;
-  background:  #CB210C;
+  background: #cb210c;
   position: relative;
   z-index: 2;
 `;
 
 // Estilo do icone menu hamburguer
 const StyledIoMenu = styled(IoMenu)`
-  color: #fff;
+  color: #000;
   width: 10vw;
   height: 10vh;
 `;
@@ -28,7 +28,7 @@ const NavOptionsContainer = styled.div`
   top: 10vh;
   left: 0;
   width: 100vw;
-  background: #CB210C;
+  background: #cb210c;
 `;
 
 const Header = () => {
@@ -55,7 +55,8 @@ const Header = () => {
                     */}
           {navOptions.map((option) => (
             <NavLink
-              c={"#FFF"}
+              fw={"bold"}
+              c={"#000"}
               key={option.id}
               label={option.nav}
               href={option.href}
