@@ -1,14 +1,19 @@
 import "@mantine/carousel/styles.css";
 import { Carousel } from '@mantine/carousel';
-import { ReactNode } from "react";
+import Cards from "../../Cards";
 
-interface TitleProps {
-    Children: ReactNode;
-  }
+interface SlidersProps {
+    src: string;
+    title: string;
+    text: string;
+    buttonText: string;
+}
 
-const SlideCarousel = ({Children} : TitleProps) =>{
+const SlideCarousel = ({src, title, text, buttonText} : SlidersProps) =>{
     return<Carousel.Slide>
-        {Children}
+        <Cards 
+            src={src} title={title} text={text} buttonText={buttonText}
+        />
     </Carousel.Slide>
 }
 

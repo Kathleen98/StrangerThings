@@ -1,7 +1,7 @@
 import styled from "styled-components";
 import Title from "../Title/Index";
 import "@mantine/carousel/styles.css";
-import Cards from "./Cards";
+import CarouselContainer from "./Carousel";
 
 const CharactersContainer = styled.section`
   padding: 1em;
@@ -25,7 +25,7 @@ const Characters = () => {
     <CharactersContainer>
       <Title Children={'Personagens'} />
       <CardsContainer>
-        <Cards />
+        <CarouselContainer />
       </CardsContainer>
     </CharactersContainer>
   );

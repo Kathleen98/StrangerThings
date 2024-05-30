@@ -1,0 +1,71 @@
+[
+    {
+        "id": 0,
+        "image": "https://i.pinimg.com/564x/c7/12/58/c712582c7cbac25832966aefa9f64537.jpg",
+        "title": "Onze",
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+
+    {
+        "id": 1,
+        "image": "https://i.pinimg.com/564x/74/c8/b5/74c8b568168de029d4bffebd5196a064.jpg",
+        "title": "Will Byers",
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+
+    {
+        "id": 2,
+        "image": "https://i.pinimg.com/564x/2a/8a/36/2a8a361ee2002b9994c1f4d7b828f40d.jpg",
+        "title": "Dustin Henderson",
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+
+    {
+        "id": 3,
+        "image": "https://i.pinimg.com/564x/40/c0/03/40c003c56db3ea6a2762eae93e8472b1.jpg",
+        "title": "Mike",
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+    
+    {
+        "id": 4,
+        "image": "https://i.pinimg.com/564x/8f/16/bd/8f16bddfbab8dd8df42fef3672721ec5.jpg",
+        "title": "Lucas Sinclair",
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+
+    {
+        "id": 5,
+        "image": "https://i.pinimg.com/564x/45/38/c6/4538c668e18fcd7651e722b13ae81b4c.jpg",
+        "title": "Nancy Wheeler",
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+
+    {
+        "id": 6,
+        "image": "https://i.pinimg.com/736x/f4/a4/a0/f4a4a0b099a00e9d46bee4e2f0ad8289.jpg",
+        "title": "Steve Harrington",
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+
+    {
+        "id": 7,
+        "image": "https://i.pinimg.com/564x/b0/9b/69/b09b692191e90c0b2d4307e0f224be22.jpg",
+        "title": "Jonathan Byers",
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+
+    {
+        "id": 8,
+        "image": "https://i.pinimg.com/564x/cd/e7/3c/cde73c8179391bfdd809f2efdc5eb460.jpg",
+        "title": "Jim Hopper",
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+
+    {
+        "id": 9,
+        "image": "https://i.pinimg.com/564x/a7/a9/c7/a7a9c7b726202fa0b709a65ff6c078e5.jpg",
+        "title": "Demogorgon",
+        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    }
+]
