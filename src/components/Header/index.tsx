@@ -31,14 +31,6 @@ const NavOptionsContainer = styled.div`
   background: #210807;
 `;
 
-// Estilo hover dos links menu
-const StyledNavLink = styled(NavLink)`
-  &:hover {
-    font-weight: bold;
-    background: transparent;
-  }
-`;
-
 const Header = () => {
   // Usando o useState para controlar a visibilidade da lista de opções do menu.
   // Ela inicia como falso para manter o padrão do menu sempre estar oculto.
@@ -62,7 +54,8 @@ const Header = () => {
                         um em sem respactivo lugar, o id no key e o nav no label.
                     */}
           {navOptions.map((option) => (
-            <StyledNavLink
+            <NavLink
+              c={"#FFF"}
               key={option.id}
               label={option.nav}
               href={option.href}
