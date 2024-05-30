@@ -1,0 +1,16 @@
+@font-face {
+  font-family: "Benguiat";
+  src:  url('./assets/font/benguiat.ttf');
+}
+
+@font-face {
+  font-family: "BenguiatBold";
+  src: url('./assets/font/benguiat-bold-bt.ttf');
+}
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Benguiat";
+}
