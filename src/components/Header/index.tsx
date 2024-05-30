@@ -10,7 +10,7 @@ const HeaderContainer = styled.header`
   flex-direction: column;
   width: 100vw;
   height: 10vh;
-  background: #210807;
+  background:  #CB210C;
   position: relative;
   z-index: 2;
 `;
@@ -28,7 +28,7 @@ const NavOptionsContainer = styled.div`
   top: 10vh;
   left: 0;
   width: 100vw;
-  background: #210807;
+  background: #CB210C;
 `;
 
 const Header = () => {

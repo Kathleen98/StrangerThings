@@ -9,12 +9,12 @@ interface CardsProps {
 }
 
 const Cards = ({src, title, text, buttonText} : CardsProps) =>{
-    return<Card withBorder maw={'100vw'}  shadow="sm" radius="md" bg={'#000'}>
+    return<Card withBorder w={'100vw'} h={'95vh'}  shadow="sm" radius="md" bg={'#000'}>
             <Card.Section>
-                <Image src={src} maw={'100vw'}  />
+                <Image src={src}  />
             </Card.Section>
             <Group>
-                <Text>
+                <Text c={"#FFF"}>
                     {title}
                 </Text>
             </Group>
