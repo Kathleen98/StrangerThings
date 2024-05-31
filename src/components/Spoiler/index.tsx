@@ -1,6 +1,5 @@
 import { Spoiler, Flex } from "@mantine/core";
 import Title from "../Title/Index";
-import Link from '../Anchor/index'
 import Paragraphy from "../Text";
 
 const SpoilerText = () => {
