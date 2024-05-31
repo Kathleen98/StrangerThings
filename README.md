@@ -8,7 +8,7 @@ No momento meu foco está em componentização, props, useState e useEffect.
 <br/>
 O projeto está sendo construido com o conceito de mobile first.
 
-## Tecnologias utilizadas
+## Tecnologias utilizadas 👩🏽‍💻
 
 <a href="https://vitejs.dev/">Vite</a>
 <br/>
@@ -20,10 +20,10 @@ O projeto está sendo construido com o conceito de mobile first.
 <br/>
 <a href="https://mantine.dev/">Mantine UI</a>
 
-## Link do projeto
+## Link do projeto 🔗
 <a href="https://stranger-things-sable.vercel.app/">Clique aqui</a>
 
-## Última atualização
+## Última atualização 🌐
 <img src="./public/img/print.jpeg">
 
 
