@@ -9,7 +9,7 @@ interface CardsProps {
 
 const Cards = ({ src, title, text, buttonText }: CardsProps) => {
   return (
-    <Card withBorder w={"100vw"} shadow="sm" radius="md" bg={"#000"}>
+    <Card withBorder w={"90vw"} m={'auto'} shadow="sm" radius="md" bg={"#000"}>
       <Card.Section>
         <Image src={src} />
       </Card.Section>
