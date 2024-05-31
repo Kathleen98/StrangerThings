@@ -1,13 +1,7 @@
 [
     {
         "id": 0,
-        "nav": "home",
-        "href": "#"
-    },
-
-    {
-        "id": 1,
-        "nav": "Personagens",
+        "nav": "Home",
         "href": "#"
     },
 
@@ -18,13 +12,19 @@
     },
 
     {
-        "id": 1,
+        "id": 2,
+        "nav": "Personagens",
+        "href": "#"
+    },
+
+    {
+        "id": 3,
         "nav": "Temporadas",
         "href": "#"
     },
 
     {
-        "id": 1,
+        "id": 4,
         "nav": "Atores",
         "href": "#"
     }

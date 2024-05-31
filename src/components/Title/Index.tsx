@@ -11,7 +11,6 @@ const TitleStyled = styled.h2`
   text-transform: uppercase;
   text-align: center;
   padding-bottom: 0.25em;
-  border-bottom: 1px solid #e0e0e0;
 `;
 
 const Title = ({ Children }: TitleProps) => {
