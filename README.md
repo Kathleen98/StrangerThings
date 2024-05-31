@@ -12,13 +12,13 @@ O projeto está sendo construido com o conceito de mobile first.
 
 <a href="https://vitejs.dev/">Vite</a>
 <br/>
-<a hred="https://react.dev/">React</a>
+<a href="https://react.dev/">React</a>
 <br/>
-<a hred="https://www.typescriptlang.org/">TypeScript</a>
+<a href="https://www.typescriptlang.org/">TypeScript</a>
 <br/>
-<a hred="https://styled-components.com/">Styled Components</a>
+<a href="https://styled-components.com/">Styled Components</a>
 <br/>
-<a hred="https://mantine.dev/">Mantine UI</a>
+<a href="https://mantine.dev/">Mantine UI</a>
 
 ## Link do projeto
 <a href="https://stranger-things-sable.vercel.app/">Clique aqui</a>
