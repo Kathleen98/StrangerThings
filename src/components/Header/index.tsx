@@ -31,7 +31,7 @@ const NavOptionsContainer = styled.div`
   background: #cb210c;
 `;
 
-const Header = () => {
+export function Header() {
   // Usando o useState para controlar a visibilidade da lista de opções do menu.
   // Ela inicia como falso para manter o padrão do menu sempre estar oculto.
   const [showNavOptons, setShowNavOptions] = useState(false);
