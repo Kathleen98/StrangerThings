@@ -11,9 +11,13 @@ O projeto está sendo construido com o conceito de mobile first.
 ## Tecnologias utilizadas
 
 <a href="https://vitejs.dev/">Vite</a>
+<br/>
 <a hred="https://react.dev/">React</a>
+<br/>
 <a hred="https://www.typescriptlang.org/">TypeScript</a>
+<br/>
 <a hred="https://styled-components.com/">Styled Components</a>
+<br/>
 <a hred="https://mantine.dev/">Mantine UI</a>
 
 ## Link do projeto
