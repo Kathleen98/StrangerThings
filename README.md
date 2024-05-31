@@ -24,6 +24,6 @@ O projeto está sendo construido com o conceito de mobile first.
 <a href="https://stranger-things-sable.vercel.app/">Clique aqui</a>
 
 ## Última atualização 🌐
-<img src="./public/img/print.jpeg">
+<img src="./public/img/siteVideo.gif">
 
 
