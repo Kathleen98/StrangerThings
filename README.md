@@ -25,7 +25,7 @@ O projeto está sendo construido com o conceito de mobile first.
 
 ## Última atualização 🌐
 <p style="align=center">
-    <img src="./public/img/siteVideo.gif" alt="Gif mostrando a versão atualizada do site" style="width: 1080px; height: 1920px">
+    <img src="./public/img/siteVideo.gif" alt="Gif mostrando a versão atualizada do site" style="width: 300px; height: 500">
 </p>
 
 
