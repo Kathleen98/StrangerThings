@@ -4,7 +4,7 @@ import { MantineProvider, Flex } from "@mantine/core";
 import Header from "./components/Header";
 import Banner from "./components/Banner";
 import Characters from "./components/Characters";
-import SpoilerText from "./components/Spoiler";
+import Story from "./components/StoryContainer";
 
 function App() {
   return (
@@ -14,7 +14,7 @@ function App() {
         <Header />
         <Banner />
         <Flex direction={'column'} align={'center'}>
-        <SpoilerText />
+        <Story />
         <Characters />
         </Flex>
       </MantineProvider>

@@ -8,7 +8,7 @@ interface PropsLinks {
 
 const Link = ({ href, target, text }: PropsLinks) => {
   return (
-    <Anchor bg={"#e6292f"} c={"#FFF"} p={".5em"} href={href} target={target}>{text}</Anchor>
+    <Anchor style={{borderRadius: "12px"}} bg={"#e6292f"} ta={"center"} c={"#FFF"} p={".5em"} href={href} target={target}>{text}</Anchor>
   );
 };
 
