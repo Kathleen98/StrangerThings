@@ -5,6 +5,7 @@ import Header from "./components/Header";
 import Banner from "./components/Banner";
 import Characters from "./components/Characters";
 import Story from "./components/StoryContainer";
+import ModalStory from "./components/ModalStory";
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
         <Story />
         <Characters />
         </Flex>
+        <ModalStory />
       </MantineProvider>
     </>
   );
