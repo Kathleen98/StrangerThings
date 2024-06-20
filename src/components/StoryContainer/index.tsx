@@ -2,7 +2,7 @@ import { Flex } from "@mantine/core";
 import Title from "../Title/Index";
 import Paragraphy from "../Text";
 import styled from "styled-components";
-import Link from "../Anchor";
+import ModalStory from "./ModalStory";
 
 
 const ParagraphyStyled = styled(Paragraphy)`
@@ -16,11 +16,7 @@ const Story = () => {
       <ParagraphyStyled 
         props={'No ano de 1983, na pacata cidade de Hawkins, algo sombrio e misterioso começa a se desenrolar. Tudo começa com o desaparecimento inexplicável de Will Byers, um garoto comum que se torna o epicentro de eventos extraordinários e aterrorizantes.'}
       />
-      < Link 
-        href={"#"}
-        target={"_blank"}
-        text={"Ler mais"}
-      />
+      < ModalStory />
     </Flex>
   );
 };

@@ -1,0 +1,13 @@
+.header{
+    width: 100vw;
+    height: 100vh;
+    background-image: url("https://i.pinimg.com/564x/75/ad/db/75addb26a3ca7c3bcf1da194017dc461.jpg");
+    background-size: contain;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column-reverse;
+    opacity: 1;
+    border-radius: 0;
+}
